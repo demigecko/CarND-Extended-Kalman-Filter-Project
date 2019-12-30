@@ -3,9 +3,6 @@
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
 
-//#define pi 3.14159265
-//#define TAU 2 * PI
-
 /* 
  * Please note that the Eigen library does not initialize 
  * VectorXd or MatrixXd objects with zeros upon creation.
